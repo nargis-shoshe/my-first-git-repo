@@ -4,3 +4,13 @@ div{
     margin: auto;
     margin-bottom: 10px;
 }
+li{
+    color: gold;
+    text: size adjust 10px; ;
+}
+image{
+     
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
