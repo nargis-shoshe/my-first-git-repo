@@ -8,9 +8,12 @@ li{
     color: gold;
     text: size adjust 10px; ;
 }
-image{
-     
+img{
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    height: 300px;
+    border: 2px solid rgba(14, 100, 18, 0.178);
+    width: 500px;
 }
